@@ -1,0 +1,25 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(jupyter server *)",
+      "Bash(jupyter notebook *)",
+      "Bash(python -c ' *)",
+      "Bash(nvidia-smi --query-gpu=memory.used,memory.total,utilization.gpu --format=csv)",
+      "Bash(python \"C:\\\\Users\\\\ASUS\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\D--Downloads-BDC2026\\\\7c5d17ef-7e8f-4ce9-b51a-2634be949a95\\\\scratchpad\\\\watch_convnext.py\")",
+      "Bash(tasklist)",
+      "Bash(.venv/Scripts/python.exe -m pip install openpyxl)",
+      "Skill(fewer-permission-prompts)",
+      "Skill(fewer-permission-prompts:*)",
+      "Bash(ls ~/.claude/projects/ 2>/dev/null | head -50)",
+      "Read(//c/Users/ASUS/.claude/projects/**)",
+      "Bash(sort -k6,7)",
+      "Bash(python3 -c ' *)",
+      "Bash(/d/Downloads/BDC2026/.venv/Scripts/python.exe -c ' *)",
+      "Read(//c/Users/ASUS/.claude/projects/d--Downloads-BDC2026/**)",
+      "Bash(mkdir -p \"D:/Downloads/BDC2026/.claude\")"
+    ],
+    "additionalDirectories": [
+      "D:\\Downloads\\BDC2026\\.claude"
+    ]
+  }
+}

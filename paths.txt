@@ -1,0 +1,18 @@
+﻿ROOT: D:\Downloads\BDC2026
+========================================
+
+1. submission.csv
+   Path: D:\Downloads\BDC2026\submission.csv
+
+2. train\
+   Path: D:\Downloads\BDC2026\train\
+   Contents:
+     0_Recyclable\  (9999 files)
+     1_Electronic\  (3961 files)
+     2_Organic\  (12567 files)
+
+3. test\
+   Path: D:\Downloads\BDC2026\test\
+   Contents: 1458 files (1.jpg ~ 9999.jpg, dll)
+
+

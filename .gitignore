@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset
+train/
+test/
+
+# Model & output
+models/
+outputs/
+
+# Database
+*.duckdb
+
+# Log
+*.log
+
+# Notebook cache
+.ipynb_checkpoints/
+
+# Hasil training
+submission.csv
+fold_results_summary.csv
+holdout_split.csv
