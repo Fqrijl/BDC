@@ -1,0 +1,21 @@
+{
+  "files.watcherExclude": {
+    "**/DATA/**": true,
+    "**/train_clean/**": true,
+    "**/clean_dataset_v3/**": true,
+    "**/Preprocesing/**": true,
+    "**/files (1)/outputs/**": true,
+    "**/.venv/**": true
+  },
+  "search.exclude": {
+    "**/DATA": true,
+    "**/train_clean": true,
+    "**/clean_dataset_v3": true,
+    "**/Preprocesing": true,
+    "**/files (1)/outputs": true,
+    "**/.venv": true
+  },
+  "files.exclude": {
+    "**/.ipynb_checkpoints": true
+  }
+}
